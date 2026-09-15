@@ -1,4 +1,4 @@
-# QuantLab
+# Strategy Backtester
 
 Minimalistic tool for backtesting trading strategies over historical stock data. Includes backend (FastAPI, SQLite, Alpha Vantage data fetch) and frontend (React with charting).
 
